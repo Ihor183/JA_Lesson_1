@@ -1,0 +1,7 @@
+package ua.igorbendera.cinema;
+
+import java.io.Serializable;
+
+public enum Days implements Serializable {
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
+}
